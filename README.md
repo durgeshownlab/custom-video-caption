@@ -10,8 +10,8 @@ Please make sure that Node js is installed in your computer before running this 
 
 
 ```jsx
-1.  npm install
-2.  npm run dev
+npm install
+npm run dev
 ```
 
 Now you can see the output of this project on your browser.
