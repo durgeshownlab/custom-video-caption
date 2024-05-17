@@ -1,8 +1,17 @@
-# React + Vite
+# Custom Video Caption
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#### Note: 
+Please make sure that Node js is installed in your computer before running this project.
 
-Currently, two official plugins are available:
+> Follow the below steps to run the code on your local system.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Download the Repo from the github to your local system.
+- Browse the folder in Terminal or CMD and run following commands
+
+
+```jsx
+1.  npm install
+2.  npm run dev
+```
+
+Now you can see the output of this project on your browser.
